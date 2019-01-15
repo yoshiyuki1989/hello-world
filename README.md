@@ -1,3 +1,2 @@
 # hello-world
-
-It's mine.
+Hi humans!
